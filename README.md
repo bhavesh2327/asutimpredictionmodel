@@ -58,31 +58,20 @@ scikit-learn, xgboost, imblearn
 
 pickle
 
-🚀 How to Run
-Clone the repository:
+Here's a clean and professional version of your "How to Run" section for the `README.md` — ready to copy and paste into your GitHub README:
 
-bash
-Copy
-Edit
+---
+
+## 🚀 How to Run
+
+### 1. Clone the Repository
 git clone https://github.com/yourusername/autism-prediction.git
 cd autism-prediction
-Install dependencies:
+### 2. Install Dependencies
+Make sure you have Python and pip installed. 
+### 3. Launch the Jupyter Notebook
+ jupyter notebook autismprediction.ipynb
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Jupyter Notebook:
+---
 
-bash
-Copy
-Edit
-jupyter notebook autismprediction.ipynb
-To use the model:
-
-python
-Copy
-Edit
-import pickle
-model = pickle.load(open('model.pkl', 'rb'))
-prediction = model.predict(your_input)
+Let me know if you want a full `README.md` with project description, features, datasets used, model performance, etc.
