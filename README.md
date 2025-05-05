@@ -72,6 +72,4 @@ Make sure you have Python and pip installed.
 ### 3. Launch the Jupyter Notebook
  jupyter notebook autismprediction.ipynb
 
----
 
-Let me know if you want a full `README.md` with project description, features, datasets used, model performance, etc.
