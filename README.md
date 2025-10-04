@@ -11,7 +11,7 @@ model.pkl – Pickled trained model (can be used for deployment).
 📊 Features Used
 Gender
 
-Ethnicity
+Ethnicity           
 
 Jaundice at birth
 
