@@ -1,6 +1,7 @@
 Autism Prediction Model 🧠
 This project is focused on predicting the likelihood of autism in individuals based on a variety of features, using machine learning algorithms. The model is trained using a cleaned dataset and leverages classification techniques like Decision Tree, Random Forest, and XGBoost for prediction accuracy.  
- 
+
+                                                          
 📁 Project Structure
 autismprediction.ipynb – Main Jupyter Notebook with full data analysis  , preprocessing, model training, evaluation, and export. 
 
